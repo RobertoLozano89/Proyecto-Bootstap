@@ -1,0 +1,16 @@
+.text_resaltar {
+    color: yellow !important;
+}
+
+#main .carousel-inner img {
+    max-height: 50vh;
+    object-fit: cover;
+}
+
+
+#footer{
+    background-color: blueviolet;
+    padding-left: 0%;
+    margin-left: auto;
+}
+
