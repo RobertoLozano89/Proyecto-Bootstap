@@ -1,16 +1,10 @@
-.text_resaltar {
-    color: yellow !important;
+.tamaño{
+    width: 100%;
+    height: 500px;
+    
+    object-fit: containt;
 }
+.imagen{
 
-#main .carousel-inner img {
-    max-height: 50vh;
-    object-fit: cover;
+    object-fit: containt;
 }
-
-
-#footer{
-    background-color: blueviolet;
-    padding-left: 0%;
-    margin-left: auto;
-}
-
